@@ -1,18 +1,17 @@
-{
-  [
-    {
-      id: "1",
-      name: "Read",
-      frequency: "daily",
-      completedDates: [],
-      createdAt: new Date().toISOString(),
-    },
-    {
-      id: "2",
-      name: "Exercise",
-      frequency: "daily",
-      completedDates: [],
-      createdAt: new Date().toISOString(),
-    },
-  ];
-}
+[
+  {
+    "id": "1",
+    "name": "Read",
+    "frequency": "daily",
+    "completedDates": [],
+    "createdAt": "2025-02-18T12:34:56.789Z"
+  },
+  {
+    "id": "2",
+    "name": "Exercise",
+    "frequency": "daily",
+    "completedDates": [],
+    "createdAt": "2025-02-18T12:34:56.789Z"
+  }
+]
+
